@@ -5,3 +5,4 @@ starting
   Taking control.
   Still in progress.
   Good luck.
+  ok i just realize that im learning about branches...
