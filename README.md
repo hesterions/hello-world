@@ -5,4 +5,9 @@ starting
   Taking control.
   Still in progress.
   Good luck.
+
   whats different now??
+  
+  ok i just realize that im learning about branches...
+  THATS THE LAST ONEEE
+
